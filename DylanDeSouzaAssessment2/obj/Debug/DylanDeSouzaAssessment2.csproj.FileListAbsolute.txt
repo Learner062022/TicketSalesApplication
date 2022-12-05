@@ -1,0 +1,11 @@
+C:\Users\desoud\OneDrive - TAFE\DataDrivenApplications\DylanDeSouzaAssessment2\DylanDeSouzaAssessment2\obj\Debug\DylanDeSouzaAssessment2.csproj.AssemblyReference.cache
+C:\Users\desoud\OneDrive - TAFE\DataDrivenApplications\DylanDeSouzaAssessment2\DylanDeSouzaAssessment2\obj\Debug\DylanDeSouzaAssessment2.csproj.SuggestedBindingRedirects.cache
+C:\Users\desoud\OneDrive - TAFE\DataDrivenApplications\DylanDeSouzaAssessment2\DylanDeSouzaAssessment2\obj\Debug\DylanDeSouzaAssessment2.frm_ticket_sales_application.resources
+C:\Users\desoud\OneDrive - TAFE\DataDrivenApplications\DylanDeSouzaAssessment2\DylanDeSouzaAssessment2\obj\Debug\DylanDeSouzaAssessment2.Properties.Resources.resources
+C:\Users\desoud\OneDrive - TAFE\DataDrivenApplications\DylanDeSouzaAssessment2\DylanDeSouzaAssessment2\obj\Debug\DylanDeSouzaAssessment2.csproj.GenerateResource.cache
+C:\Users\desoud\OneDrive - TAFE\DataDrivenApplications\DylanDeSouzaAssessment2\DylanDeSouzaAssessment2\obj\Debug\DylanDeSouzaAssessment2.csproj.CoreCompileInputs.cache
+C:\Users\desoud\OneDrive - TAFE\DataDrivenApplications\DylanDeSouzaAssessment2\DylanDeSouzaAssessment2\bin\Debug\DylanDeSouzaAssessment2.exe.config
+C:\Users\desoud\OneDrive - TAFE\DataDrivenApplications\DylanDeSouzaAssessment2\DylanDeSouzaAssessment2\bin\Debug\DylanDeSouzaAssessment2.exe
+C:\Users\desoud\OneDrive - TAFE\DataDrivenApplications\DylanDeSouzaAssessment2\DylanDeSouzaAssessment2\bin\Debug\DylanDeSouzaAssessment2.pdb
+C:\Users\desoud\OneDrive - TAFE\DataDrivenApplications\DylanDeSouzaAssessment2\DylanDeSouzaAssessment2\obj\Debug\DylanDeSouzaAssessment2.exe
+C:\Users\desoud\OneDrive - TAFE\DataDrivenApplications\DylanDeSouzaAssessment2\DylanDeSouzaAssessment2\obj\Debug\DylanDeSouzaAssessment2.pdb
